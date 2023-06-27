@@ -113,4 +113,4 @@ File README.md di GitHub ini dikembangkan oleh:
 - NIM: F55121078
 - Email: newbie2345@gmail.com
 
-Jika Anda memiliki pertanyaan atau masukan terkait file ini, silakan hubungi developer melalui email yang tertera di atas.`
+Jika Anda memiliki pertanyaan atau masukan terkait file ini, silakan hubungi developer melalui email yang tertera di atas.
